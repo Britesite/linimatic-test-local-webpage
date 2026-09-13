@@ -413,8 +413,8 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
         </div>
         <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 py-20 sm:py-24 lg:py-28 xl:py-36">
           <div className="max-w-2xl">
-            <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cta.heading')}</h2>
-            <p className="mt-6 text-lg text-zinc-400 leading-relaxed max-w-lg">{t('cta.description')}</p>
+            <h2 className="text-[2.5rem] sm:text-[3.25rem] lg:text-[4rem] font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cta.heading')}</h2>
+            <p className="mt-6 text-xl text-zinc-400 leading-relaxed max-w-lg">{t('cta.description')}</p>
             <div className="mt-4 inline-flex items-center gap-2 text-sm text-ember font-[family-name:var(--font-mono)]">
               <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
               {t('cta.responsePromise')}
