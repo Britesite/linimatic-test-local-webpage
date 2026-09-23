@@ -105,7 +105,7 @@
     "eyebrow": "Gegründet 1967 — Helsinge, Dänemark",
     "headline1": "Druckguss",
     "headline2": "aus",
-    "headlineAccent": "Zink!",
+    "headlineAccent": "Zink",
     "tagline": "Präzise, effizient und wirtschaftlich",
     "description": "Linimatic A/S verbindet langjährige Erfahrung mit moderner, automatisierter Produktion von Zinkdruckgussteilen. Automatisierung, Roboter und effiziente Prozesssteuerung ermöglichen es uns, hohe Qualität zu wettbewerbsfähigen Preisen zu liefern – produziert in Dänemark. Wir unterstützen Kunden bei Teilen, bei denen Präzision, Funktion, Finish und gleichbleibende Qualität entscheidend sind. Mit hohem technischem Know-how und engem Dialog von der Idee bis zum fertigen Teil schaffen wir Lösungen, die halten – auch wenn die Anforderungen komplex sind.",
     "heroImageAlt": "Präzisions-Zinkdruckgussform mit Messinganschlüssen",
@@ -118,8 +118,8 @@
   "stats": {
     "items": [
       { "value": "1967", "label": "Gegründet" },
-      { "value": "ISO 9002", "label": "Seit 1993" },
-      { "value": "99%", "label": "Dänische Produktion" },
+      { "value": "ISO 9001", "label": "Seit 1993" },
+      { "value": "100%", "label": "Dänische Produktion" },
       { "value": "199 kWp", "label": "Solaranlage" },
       { "value": "30+", "label": "Spezialisten" }
     ]

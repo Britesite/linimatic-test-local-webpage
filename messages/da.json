@@ -105,7 +105,7 @@
     "eyebrow": "Grundlagt 1967 — Helsinge, Danmark",
     "headline1": "Højtryksstøbning",
     "headline2": "af",
-    "headlineAccent": "zink!",
+    "headlineAccent": "zink",
     "tagline": "Præcist, effektivt og økonomisk",
     "description": "Linimatic A/S kombinerer mange års erfaring med moderne, automatiseret produktion af højtryksstøbte zinkkomponenter. Automatisering, robotter og effektiv processtyring gør det muligt for os at levere høj kvalitet til konkurrencedygtige priser – med produktion i Danmark. Vi hjælper kunder med emner, hvor præcision, funktion, finish og stabil kvalitet er afgørende. Med høj teknisk knowhow og tæt dialog fra idé til færdigt emne skaber vi løsninger, der holder – også når kravene er komplekse.",
     "heroImageAlt": "Præcisions-zinktrykstøbeform med messingfittings",
@@ -118,8 +118,8 @@
   "stats": {
     "items": [
       { "value": "1967", "label": "Grundlagt" },
-      { "value": "ISO 9002", "label": "Siden 1993" },
-      { "value": "99%", "label": "Dansk produktion" },
+      { "value": "ISO 9001", "label": "Siden 1993" },
+      { "value": "100%", "label": "Dansk produktion" },
       { "value": "199 kWp", "label": "Solcelleanlæg" },
       { "value": "30+", "label": "Specialister" }
     ]
