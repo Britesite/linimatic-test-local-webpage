@@ -127,15 +127,14 @@
   "valueChain": {
     "eyebrow": "Ein Dach. Keine Zwischenstationen.",
     "heading": "Von der Konstruktion bis zum ersten Produktionsauftrag",
-    "description": "Senden Sie uns Ihre CAD-Datei. Wir optimieren die Konstruktion, bauen und testen das Druckgusswerkzeug und liefern freigegebene Musterteile, bereit für die Serienfertigung — alles unter einem Dach, mit einem verantwortlichen Team von Anfang bis Ende.",
-    "highlights": ["Antwort in 48 h", "50–10.000 Stk."],
+    "description": "Geben Sie uns eine CAD-Datei. Wir liefern ein fertiges, geprüftes Bauteil — gegossen, bearbeitet, beschichtet und montiert in einer einzigen Anlage. Keine Lieferantenkoordination. Keine Qualitätslücken zwischen den Schritten.",
     "steps": [
       {
         "number": "01",
         "label": "Design",
         "title": "Optimierung mit Respekt vor dem Design",
         "description": "Gemeinsam mit Ihnen optimieren wir die Konstruktion für effizienten Zink-Druckguss – mit größtmöglichem Respekt vor dem ursprünglichen Design.",
-        "specs": "Konstruktion für Zink-Druckguss · Respekt vor dem Originaldesign"
+        "specs": "48h Antwort · 50–10.000 Stk."
       },
       {
         "number": "02",
@@ -154,7 +153,7 @@
       {
         "number": "04",
         "label": "Freigabe",
-        "title": "Vermessung und Freigabe",
+        "title": "Freigabe",
         "description": "Nach dem Einfahren vermessen wir die vereinbarte Anzahl an Teilen. Die Teile erhalten Sie zusammen mit der vereinbarten Qualitäts- und Messdokumentation.",
         "specs": "Vermessene Musterteile · Qualitäts- und Messdokumentation"
       },

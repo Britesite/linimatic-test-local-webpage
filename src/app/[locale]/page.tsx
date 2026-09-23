@@ -240,14 +240,6 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
             <p className="mt-4 text-base text-zinc-600 leading-relaxed max-w-2xl">
               {t('valueChain.description')}
             </p>
-            <ul className="mt-6 flex flex-wrap gap-2">
-              {(t.raw('valueChain.highlights') as string[]).map((item) => (
-                <li key={item} className="inline-flex items-center gap-2 border border-zinc-200 bg-zinc-50 px-3 py-1.5 text-[12px] tracking-[0.05em] uppercase text-zinc-800 font-[family-name:var(--font-mono)]">
-                  <span className="h-1.5 w-1.5 bg-ember" aria-hidden="true" />
-                  {item}
-                </li>
-              ))}
-            </ul>
           </div>
 
           {/* Connected value chain — 5 steps, each links to its service.
@@ -281,7 +273,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
                     </div>
                     {/* Content */}
                     <div className="pr-4 lg:pr-5 pb-8 lg:pb-0 flex flex-col flex-1">
-                      <h3 className="text-lg leading-snug font-semibold text-zinc-900 group-hover:text-ember transition-colors duration-300 font-[family-name:var(--font-display)] tracking-tight mb-1.5">{step.title}</h3>
+                      <h3 className="text-base font-semibold text-zinc-900 group-hover:text-ember transition-colors duration-300 font-[family-name:var(--font-display)] tracking-tight mb-1.5">{step.title}</h3>
                       <p className="text-[15px] text-zinc-600 leading-relaxed">{step.description}</p>
                       <p className="mt-auto pt-3 text-[11px] tracking-[0.05em] text-ember font-[family-name:var(--font-mono)]">{step.specs}</p>
                     </div>

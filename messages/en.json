@@ -127,15 +127,14 @@
   "valueChain": {
     "eyebrow": "One Roof. Zero Handoffs.",
     "heading": "From design to first production order",
-    "description": "Send us your CAD file. We optimise the design, build and test the die-casting tool, and deliver approved samples ready for series production \u2014 all under one roof, with one team accountable from start to finish.",
-    "highlights": ["48h response", "50\u201310,000 pcs"],
+    "description": "Give us a CAD file. We return a finished, inspected component \u2014 cast, machined, coated, and assembled in a single facility. No supplier coordination. No quality gaps between steps.",
     "steps": [
       {
         "number": "01",
         "label": "Design",
         "title": "Optimisation with respect for the design",
         "description": "Together with you, we optimise the construction for efficient zinc die casting \u2013 with the greatest possible respect for the original design.",
-        "specs": "Design for zinc die casting \u00b7 Original design respected"
+        "specs": "48h response \u00b7 50\u201310,000 pcs"
       },
       {
         "number": "02",
@@ -148,13 +147,13 @@
         "number": "03",
         "label": "Try-Out",
         "title": "Try-Out and Test Casting",
-        "description": "Once the die-casting tool is finished, we make the first test shots in one of our robotic die-casting cells, running in and fine-tuning the tool and the casting process.",
+        "description": "Once the mould tool is finished, we make the first test shots in one of our robotic die-casting cells, running in and fine-tuning the tool and the casting process.",
         "specs": "Robotic die-casting cells \u00b7 Process fine-tuning"
       },
       {
         "number": "04",
         "label": "Approval",
-        "title": "Sample Measurement and Approval",
+        "title": "Approval",
         "description": "After the try-out, we measure the agreed number of parts. The parts are delivered to you together with the agreed quality and measurement documentation.",
         "specs": "Measured samples \u00b7 Quality and measurement documentation"
       },

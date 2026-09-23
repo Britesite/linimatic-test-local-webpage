@@ -127,15 +127,14 @@
   "valueChain": {
     "eyebrow": "Ét tag. Ingen mellemled.",
     "heading": "Fra konstruktion til første produktionsordre",
-    "description": "Send os jeres CAD-fil. Vi optimerer designet, konstruerer og afprøver støbeværktøjet og leverer godkendte prøveemner klar til serieproduktion — alt under ét tag, med ét team, der har ansvaret fra start til slut.",
-    "highlights": ["Svar inden for 48 t", "50–10.000 stk."],
+    "description": "Giv os en CAD-fil. Vi returnerer et færdigt, inspiceret emne — støbt, bearbejdet, overfladebehandlet og monteret i én facilitet. Ingen leverandørkoordinering. Ingen kvalitetshuller mellem trin.",
     "steps": [
       {
         "number": "01",
         "label": "Design",
         "title": "Optimering med respekt for designet",
         "description": "Sammen med jer optimerer vi konstruktionen til effektiv zinktrykstøbning – med størst mulig respekt for det oprindelige design.",
-        "specs": "Design til zinktrykstøbning · Respekt for det oprindelige design"
+        "specs": "48t respons · 50–10.000 stk."
       },
       {
         "number": "02",
@@ -154,7 +153,7 @@
       {
         "number": "04",
         "label": "Godkend",
-        "title": "Opmåling og godkendelse",
+        "title": "Godkendelse",
         "description": "Efter indkøringen opmåler vi det aftalte antal emner. Emnerne leveres til jer sammen med den aftalte kvalitets- og måledokumentation.",
         "specs": "Opmålte emner · Kvalitets- og måledokumentation"
       },
